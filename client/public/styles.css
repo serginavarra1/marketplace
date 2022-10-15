@@ -31,3 +31,24 @@
     width: 70%;
     padding: 10px;
 }
+
+.search-div {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.search-div-up {
+    background-color: green;
+    align-items: center;
+}
+
+.filter-button {
+    margin-right: 0.5rem;
+}
+
+.pagination-2 {
+    padding: 1rem;
+    width: 13rem;
+    margin: auto;
+}

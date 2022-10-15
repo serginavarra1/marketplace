@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 const RegisterFrom = () => {
     return (
-        <>
+        <div className="auth-div">
             <div className="auth-title">
                 <h1>REGISTER</h1>
             </div>
@@ -22,7 +22,7 @@ const RegisterFrom = () => {
             <div className="auth-link">
                 <Link to='/login'>Allready have an account? login here</Link>
             </div>
-        </>
+        </div>
     );
 }
 
